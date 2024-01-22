@@ -1,6 +1,6 @@
 # Transactional Web Applications - Assignment
 
-Note: I've been working on my portfolio in another repository because it's what I was already working on previously, but I just pushed everything here. You can see the other repository [here](https://github.com/tristandasilva/portfolio-v2).
+_**Note: I've been working on my portfolio in another repository because it's what I was already working on previously, but I just pushed everything here. You can see the other repository [here](https://github.com/tristandasilva/portfolio-v2).**_
 
 This template repository is the starter project for Transactional Web App. assignment. Written in HTML/CSS/JavaScript/React.js/Node.js/Express.js.
 
