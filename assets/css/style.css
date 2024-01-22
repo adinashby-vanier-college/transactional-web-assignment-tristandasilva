@@ -103,6 +103,7 @@ h6 {
 #header .social-links {
   margin-top: 40px;
   display: flex;
+  align-items: baseline;
 }
 
 #header .social-links a {
@@ -1116,6 +1117,11 @@ section .container {
   100% {
     transform: rotate(360deg);
   }
+}
+
+#weather {
+  color: rgba(255, 255, 255, 0.699);
+  margin-left: 20px;
 }
 
 /*--------------------------------------------------------------
