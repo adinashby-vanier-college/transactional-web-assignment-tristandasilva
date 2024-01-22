@@ -22,7 +22,7 @@ const notFound = () => {
   console.log('not found');
 };
 
-// navigator.geolocation.getCurrentPosition(getWeather, notFound);
+navigator.geolocation.getCurrentPosition(getWeather, notFound);
 
 const getQuote = async () => {
   const API_KEY = 'fvZyELNZcvbZv6KMV1dDOQ==avTGS55qghhnIWhr';
